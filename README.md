@@ -6,7 +6,7 @@ that are built using a microservice architecture.
 Whereas
 [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 lists tools and technology, this list is focused on
-listing **examples** of real world systems.
+**examples** of real world systems.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
