@@ -20,6 +20,7 @@ lists tools and technology, this list is focused on
 ## Web Apps
 
 - [Peatio](https://github.com/peatio/peatio) - Asset exchange. Uses multiple services that communicate asynchronously through RabbitMQ. (ruby, rails)
+- [Travis-CI](https://github.com/travis-ci/travis-ci) - CI/CD system.  Deployment/integration poorly documented. (ruby, rails)
 
 ## Platforms
 
