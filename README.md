@@ -4,8 +4,8 @@ A curated list of **open source** web apps, APIs, platforms and software systems
 that are built using a microservice architecture.
 
 Whereas
-[mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
-lists microservices tools and technology, this list is focused on
+[awesome-microservices](https://github.com/mfornos/awesome-microservices)
+lists tools and technology, this list is focused on
 listing **examples** of real world systems.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,4 +23,4 @@ listing **examples** of real world systems.
 
 ## Platforms
 
-- [Deis Workflow](https://github.com/deis/workflow) - Heroku like PaaS. Uses REST for communication. (golang, kubernetes)
+- [Deis Workflow](https://github.com/deis/workflow) - Heroku like PaaS. Uses REST for communication. (golang, kubernetes, docker)
