@@ -25,3 +25,7 @@ lists tools and technology, this list is focused on
 ## Platforms
 
 - [Deis Workflow](https://github.com/deis/workflow) - Heroku like PaaS. Uses REST for communication. (golang, kubernetes, docker)
+
+## Demos
+
+- [Sock Shop](https://github.com/microservices-demo/microservices-demo) - Generic microservice demo app
