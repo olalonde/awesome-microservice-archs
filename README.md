@@ -29,3 +29,4 @@ lists tools and technology, this list is focused on
 ## Demos
 
 - [Sock Shop](https://github.com/microservices-demo/microservices-demo) - Generic microservice demo app
+- [UD615](https://github.com/udacity/ud615) - Demo application for the [Scalable Microservices with Kubernetes](Scalable Microservices with Kubernetes) course
